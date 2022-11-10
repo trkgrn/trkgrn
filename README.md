@@ -1,3 +1,6 @@
+
+<h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Tarık Gören :technologist: </h1>
+
 ### Github Stats
    
   <img align="left" width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=trkgrn&show_icons=true&locale=en&layout=compact&theme=react&line_height=40" />
@@ -9,7 +12,7 @@
 
 ### ⚡ Some Technologies I use  :
 - 💻 : Java | Spring-Boot | Python | C
-- 🌐 : Angular | HTML | CSS | SCSS |Javascript | Typescript | Bootstrap
+- 🌐 : Angular | HTML | CSS | SCSS | Javascript | Typescript | Bootstrap
 - 🛢️ : PostgreSQL | Microsoft SQL Server | Redis
 - ♨️ : Spring Data JPA | Hibernate | JDBC | Liquibase
 - 📟 Linux | Windows
